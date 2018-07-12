@@ -1,0 +1,5 @@
+def print_hi(glauberesearch)
+  puts "Hi, #{glauberesearch}"
+end
+print_hi('Glauber')
+#=> prints 'Hi, Glauber' to STDOUT.
